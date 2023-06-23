@@ -1,3 +1,5 @@
+npm install @nestjs/passport @nestjs/config @nestjs/mapped-types @nestjs/common @nestjs/core @nestjs/mongoose @nestjs/platform-express @nestjs/jwt class-validator typeorm mongoose dotenv passport-jwt
+
 $ Register
 Post = http://localhost:3000/users/auth/register
 
